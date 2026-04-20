@@ -27,12 +27,20 @@ If you wish to patch your own library:
    python build_zip.py
    ```
 
-## ⚖️ Legal Disclaimer
-This project is an **educational tool** designed for researchers and device owners to analyze and maintain their hardware. 
-- This repository **does not** contain proprietary binaries in its source history.
-- The developers are not responsible for any damage to your device or violations of regional regulations regarding camera software.
-- Use at your own risk.
+## ⚖️ Legal Disclaimer & Liability
+This project is an **educational research tool** designed for binary analysis and system maintenance.
+- **No Proprietary Binaries**: This repository **does not** host or distribute any original or modified Samsung proprietary files (`.so`, `.elf`, etc.) in the source code.
+- **User Responsibility**: By using this tool, you acknowledge that you are modifying your own device at your own risk. The developers are not responsible for any damage, loss of warranty, or legal issues arising from the use of this software.
+- **Warranty**: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
-## Credits
-- **TBM13**: Original Patching Logic.
-- **himasimple (@Hima_Simple)**: DeathUI 8.0 V4 Implementation and Testing.
+## 🤝 Credits & Acknowledgments
+Special thanks to the developers and researchers who made this possible:
+- **TBM13**: For the original Exynos patching logic and pattern research.
+- **himasimple (@Hima_Simple)**: For DeathUI 8.0 V4 implementation, testing, and V4 Stealth-Mount discovery.
+- **topjohnwu**: For the [Magisk](https://github.com/topjohnwu/Magisk) framework.
+- **The Keystone Engine Team**: For the assembly framework.
+- **The Capstone Engine Team**: For the disassembly framework.
+- **The angr Project**: For binary analysis support.
+
+## License
+Distributed under the **MIT License**. See `LICENSE` for more information.
