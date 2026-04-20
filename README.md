@@ -7,6 +7,11 @@ A professional-grade Magisk module and binary patcher to enable Hardware Level 3
 - **Stealth-Mount**: Uses `post-fs-data` bind-mounting to bypass One UI 8 security restrictions.
 - **SELinux Injection**: Automatically injects required policies for the camera provider service.
 - **POSIX Compliant**: Built with cross-platform compatibility for Linux/Android pathing.
+- **Auto Updates**: Built-in compatibility with Magisk's update system for future fixes.
+
+
+## 📖 Technical Documentation
+For a deep dive into how this module works, including binary patching and SELinux injection details, visit our **[Project Wiki](https://github.com/simplehima/Samsung-Camera-RAW-Exynos1480/wiki)**.
 
 ## 📦 Installation
 1. Download the latest `DeathU_V8_Level3.zip` from the [Releases](https://github.com/TODO/releases) page.
