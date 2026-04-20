@@ -37,6 +37,7 @@ This project is an **educational research tool** designed for binary analysis an
 Special thanks to the developers and researchers who made this possible:
 - **TBM13**: For the original Exynos patching logic and pattern research.
 - **himasimple (@Hima_Simple)**: For DeathUI 8.0 V4 implementation, testing, and V4 Stealth-Mount discovery.
+- **DeathThoughts (Death)**: For the [DeathUI 8.0](https://github.com/DeathThoughts/) ROM port and development.
 - **topjohnwu**: For the [Magisk](https://github.com/topjohnwu/Magisk) framework.
 - **The Keystone Engine Team**: For the assembly framework.
 - **The Capstone Engine Team**: For the disassembly framework.
