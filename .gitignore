@@ -1,0 +1,14 @@
+# Proprietary Binaries
+*.so
+*.bin
+*.elf
+
+# Build Artifacts
+*.zip
+zip_v*/
+__pycache__/
+
+# Local Config
+.idea/
+.vscode/
+*.log
